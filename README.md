@@ -1,2 +1,0 @@
-# DevopsRepo
-DevOps Repository 
